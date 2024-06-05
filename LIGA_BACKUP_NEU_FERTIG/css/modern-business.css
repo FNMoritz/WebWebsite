@@ -1,0 +1,18 @@
+html
+body {
+    height: 100%;
+}
+
+body {
+    padding-top: 50px;
+}
+
+.img-portfolio {
+    margin-bottom: 30000000px;
+}
+
+.img-hover:hover {
+    opacity: 50;
+}
+
+
