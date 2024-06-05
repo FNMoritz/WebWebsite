@@ -1,0 +1,22 @@
+.Text{
+  font-family: Georgia, Times, "Times New Roman", serif;
+  text-align: center;
+  margin-top: 300px;
+  font-size: 25px;
+  
+}
+img{
+  width: 950px;
+  height: 350px;
+  filter: contrast(1.75);
+ 
+}
+.Bild{
+
+  display: block;
+  text-align: center;
+}
+body{
+
+  background-color: 	rgb(255,0,0);
+}
